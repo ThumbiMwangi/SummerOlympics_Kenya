@@ -1,0 +1,79 @@
+﻿Year,City,Country,Medal,FirstName,SecondName,Gender,Event,Distance
+1964,Tokyo,Japan,Bronze,Wilson,Kiprugut,Men's,800m,Middle-distance
+1968,Mexico City,Mexico,Gold,Naftali,Temu,Men's,"10,000m",Long-distance
+1968,Mexico City,Mexico,Gold,Kipchoge,Keino,Men's,"1,500m",Middle-distance
+1968,Mexico City,Mexico,Gold,Amos,Biwott,Men's,"3,000m",Steeplechase
+1968,Mexico City,Mexico,Silver,Benjamin,Kogo,Men's,"3,000m",Steeplechase
+1968,Mexico City,Mexico,Silver,Kipchoge,Keino,Men's,"5,000m",Long-distance
+1968,Mexico City,Mexico,Silver,Wilson,Kiprugut,Men's,800m,Middle-distance
+1968,Mexico City,Mexico,Silver,Charles,"Asati,",Men's,4×400m,Relay
+1968,Mexico City,Mexico,Silver,Daniel,Rudisha,Men's,4×400m,Relay
+1968,Mexico City,Mexico,Silver,Naftali,Bon,Men's,4×400m,Relay
+1968,Mexico City,Mexico,Silver,Munyoro,Nyamau,Men's,4×400m,Relay
+1968,Mexico City,Mexico,Bronze,Naftali,Temu,Men's,"5,000m",Long-distance
+1968,Mexico City,Mexico,Bronze,Philip,Waruinge,Men's,Featherweight,Boxing
+1972,Munic,Germany,Gold,Kipchoge,Keino,Men's,"3,000m",Steeplechase
+1972,Munic,Germany,Gold,Charles,"Asati,",Men's,4×400m,Relay
+1972,Munic,Germany,Gold,Munyoro,Nyamau,Men's,4×400m,Relay
+1972,Munic,Germany,Gold,Robert,Ouko,Men's,4×400m,Relay
+1972,Munic,Germany,Gold,Julius,Sang,Men's,4×400m,Relay
+1972,Munic,Germany,Silver,Kipchoge,Keino,Men's,"1,500m",Middle-distance
+1972,Munic,Germany,Silver,Ben,Jipcho,Men's,"3,000m",Steeplechase
+1972,Munic,Germany,Silver,Philip,Waruinge,Men's,Featherweight,Boxing
+1972,Munic,Germany,Bronze,Julius,Sang,Men's,400m,Short-distance
+1972,Munic,Germany,Bronze,Mike,Boit,Men's,800m,Middle-distance
+1972,Munic,Germany,Bronze,Samuel,Mbugua,Men's,Lightweight,Boxing
+1972,Munic,Germany,Bronze,Dick,Murunga,Men's,Welterweight,Boxing
+1984,Los Angeles,USA,Gold,Julius,Korir,Men's,"3,000m",Steeplechase
+1984,Los Angeles,USA,Bronze,Michael,Musyoki,Men's,"10,000m",Long-distance
+1984,Los Angeles,USA,Bronze,Ibrahim,Bilali,Men's,Flyweight,Boxing
+1988,Los Angeles,USA,Gold,Julius,Kariuki,Men's,"3,000m",Steeplechase
+1988,Los Angeles,USA,Gold,John,Ngugi,Men's,"5,000m",Long-distance
+1988,Los Angeles,USA,Gold,Paul,Ereng,Men's,800m,Middle-distance
+1988,Los Angeles,USA,Gold,Peter,Rono,Men's,"1,500m",Middle-distance
+1988,Los Angeles,USA,Gold,Robert,Wangila,Men's,Welterweight,Boxing
+1988,Los Angeles,USA,Silver,Peter,Koech,Men's,"3,000m",Steeplechase
+1988,Los Angeles,USA,Silver,Douglas,Wakiihuri,Men's,Marathon,Marathon
+1988,Los Angeles,USA,Bronze,Kipkemboi,Kimeli,Men's,"10,000m",Long-distance
+1988,Los Angeles,USA,Bronze,Chris,Sande,Men's,Middleweight,Boxing
+1992,Barcelona,Spain,Gold,Matthew,Birir,Men's,"3,000m",Steeplechase
+1992,Barcelona,Spain,Gold,William,Tanui,Men's,800m,Middle-distance
+1992,Barcelona,Spain,Silver,Richard,Chelimo,Men's,"10,000m",Long-distance
+1992,Barcelona,Spain,Silver,Patrick,Sang,Men's,"3,000m",Steeplechase
+1996,Atlanta,USA,Gold,Joseph,Keter,Men's,"3,000m",Steeplechase
+1996,Atlanta,USA,Silver,Paul,Tergat,Men's,"10,000m",Long-distance
+1996,Atlanta,USA,Silver,Samuel,Mwangangi,Men's,Marathon,Marathon
+1996,Atlanta,USA,Silver,Ezekiel,Sepeng,Men's,800m,Middle-distance
+2000,Sydney,Australia,Gold,Noah,Ngeny,Men's,"1,500m",Middle-distance
+2000,Sydney,Australia,Silver,Paul,Tergat,Men's,"10,000m",Long-distance
+2000,Sydney,Australia,Silver,Reuben,Kosgei,Men's,"3,000m",Steeplechase
+2000,Sydney,Australia,Bronze,Bernard,Lagat,Men's,"1,500m",Middle-distance
+2004,Athens,Greece,Gold,Ezekiel,Kemboi,Men's,"3,000m",Steeplechase
+2004,Athens,Greece,Silver,Brimin,Kipruto,Men's,"3,000m",Steeplechase
+2004,Athens,Greece,Bronze,Paul,Korir,Men's,"3,000m",Steeplechase
+2008,Beijing,China,Gold,Pamela,Jelimo,Women's,800m,Middle-distance
+2008,Beijing,China,Gold,Nancy,Jebet,Women's,"1,500m",Middle-distance
+2008,Beijing,China,Gold,Asbel,Kiprop,Men's,"1,500m",Middle-distance
+2008,Beijing,China,Silver,Janeth,Jepkosgei,Women's,800m,Middle-distance
+2008,Beijing,China,Bronze,Edwin,Soi,Men's,"5,000m",Long-distance
+2012,London,United Kingdom,Gold,David,Rudisha,Men's,800m,Middle-distance
+2012,London,United Kingdom,Silver,Abel,Kirui,Men's,Marathon,Marathon
+2012,London,United Kingdom,Silver,Vivian,Cheruiyot,Women's,"5,000m",Middle-distance
+2012,London,United Kingdom,Bronze,Timothy,Kitum,Men's,800m,Middle-distance
+2016,Rio de Janeiro,Brazil,Gold,Eliud,Kipchoge,Men's,Marathon,Marathon
+2016,Rio de Janeiro,Brazil,Silver,Vivian,Cheruiyot,Women's,"10,000m",Long-distance
+2016,Rio de Janeiro,Brazil,Bronze,Margaret,Nyairera,Women's,800m,Middle-distance
+2020,Tokyo,Japan,Gold,Faith,Kipyegon,Women's,"1,500m",Middle-distance
+2020,Tokyo,Japan,Silver,Timothy,Cheruiyot,Men's,"1,500m",Middle-distance
+2020,Tokyo,Japan,Bronze,Hyvin,Kiyeng,Women's,"3,000m",Steeplechase
+2024,Paris,France,Gold,Faith,Kipyegon,Women's,1500m,Middle-distance
+2024,Paris,France,Gold,Emmanuel,Wanyonyi,Men's,800m,Middle-distance
+2024,Paris,France,Gold,Beatrice,Chebet,Women's,"10,000m",Long-distance
+2024,Paris,France,Gold,Faith,Cherotich,Women's,3000m,Steeplechase
+2024,Paris,France,Silver,Faith,Kipyegon,Women's,5000m,Middle-distance
+2024,Paris,France,Silver,Ronald,Kwemoi,Men's,"10,000m",Long-distance
+2024,Paris,France,Bronze,Abraham,Kibiwott,Men's,3000m,Steeplechase
+2024,Paris,France,Bronze,Benson,Kipruto,Men's,Marathon,Marathon
+2024,Paris,France,Bronze,Mary,Moraa,Women's,800m,Middle-distance
+2024,Paris,France,Bronze,Hellen,Obiri,Women's,Marathon,Marathon
+2024,Paris,France,Bronze,Faith,Cherotich,Women's,3000m,Steeplechase
